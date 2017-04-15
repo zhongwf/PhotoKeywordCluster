@@ -8,7 +8,7 @@
 
 经过一番搜索、尝试，终于写完程序，得到处理结果如下图示。运行结果出乎意料的好，不仔细看很难发觉是机器自动处理的结果！关键字被聚成了7类：1是拍摄地点，2是环境，4是时机 ，5是表达主题，6是拍摄的技术动作，7是人物，3是其余的内容。
 
-![](http://s-blog.oss-cn-beijing.aliyuncs.com/62504999-d3a0-4bc0-b8da-1a7497ebdeca.jpg)
+http://s-blog.oss-cn-beijing.aliyuncs.com/62504999-d3a0-4bc0-b8da-1a7497ebdeca.jpg
 
 处理过程如下：
 
