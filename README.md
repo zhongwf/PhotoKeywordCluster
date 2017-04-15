@@ -18,3 +18,8 @@
 
 
 2.从摄影网站把摄影作品描述数据扒下来（Scrapy），分词后筛出前200个高频词组，然后再用第一步的词组向量聚类成七类（KMeans）。
+
+
+参考：
+[用Python看金庸武侠](https://zhuanlan.zhihu.com/p/21428792)
+[Word2Vec在中文的应用](http://www.cnblogs.com/juefan/p/3386991.html)
