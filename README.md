@@ -21,5 +21,6 @@
 
 
 参考：
-[用Python看金庸武侠](https://zhuanlan.zhihu.com/p/21428792)
-[Word2Vec在中文的应用](http://www.cnblogs.com/juefan/p/3386991.html)
+
+* [用Python看金庸武侠](https://zhuanlan.zhihu.com/p/21428792)
+* [Word2Vec在中文的应用](http://www.cnblogs.com/juefan/p/3386991.html)
